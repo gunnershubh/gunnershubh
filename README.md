@@ -16,6 +16,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gunnershubh)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gunnershubh&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnershubh&layout=compact&theme=vision-friendly-dark)](https://github.com/gunnershubh/github-readme-stats)
 
 
