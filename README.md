@@ -13,10 +13,10 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gunnershubh)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gunnershubh&theme=dark)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gunnershubh&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnershubh&layout=compact&theme=vision-friendly-dark)](https://github.com/gunnershubh/github-readme-stats)
 
