@@ -13,10 +13,10 @@
 ---
 
 ### :fire: My Stats :
-<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gunnershubh&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=gunnershubh&theme=tokyonight&hide_border=true&date_format=%Y/%m/%d" alt="GitHub Streak"/>
 </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunnershubh&layout=compact&theme=vision-friendly-dark)](https://github.com/gunnershubh/github-readme-stats)
 
