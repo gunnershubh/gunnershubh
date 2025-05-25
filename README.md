@@ -28,7 +28,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Cloud Engineer at Morgan Stanley.
+- :telescope: I’m working as an AI Engineer at Morgan Stanley.
 
 - :seedling: Exploring Python Projects.
 
