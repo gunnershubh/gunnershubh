@@ -10,22 +10,6 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gunnershubh&theme=tokyonight&hide_border=true&date_format=%Y/%m/%d" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunnershubh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnershubh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-
----
 
 ### :woman_technologist: About Me :
 - :telescope: I’m working as an AI Engineer at Morgan Stanley.
